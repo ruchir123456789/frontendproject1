@@ -1,0 +1,10 @@
+smooth scrolling -- ✅
+   attach loco scroll css -- from github -- ✅
+   attach locomotive scroll min js -- ✅
+   some code from loco gihub for js -- write the main div that contains the all the elements of the html page or website -- ✅✅
+gsap -- ✅
+  attach gsap -- cdn --  ✅
+scrolltrigger 
+locaotive
+
+✅
